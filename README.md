@@ -710,6 +710,13 @@ If you find this project useful, feel free to ⭐ star the repository, explore t
 
 **Areas of Interest:** Cybersecurity | Web Reconnaissance | Network Security | Web Application Security | Digital Forensics
 
+
+# Author
+Nicholas Gyemfi 
+
+Cybersecurity Entusiast
+
+LinkedIn: [https://www.linkedin.com/in/nic-gyim/](https://www.linkedin.com/in/nic-gyim/)
 ---
 
 ## ⚖️ Disclaimer
